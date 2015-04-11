@@ -1,5 +1,13 @@
-# Fprog SPb 15 april 2015
+# Fprog Spb
 
+
+15 апреля 2015 (среда), 19:00 
+
+Встреча инженеров интересующихся функциональным программированием (clojure, erlang, haskell, scala)
+
+Регистрация - https://spb-fp-meetup.timepad.ru/event/195465/ (обязательна)
+
+В этот раз встреча будет посвящена языку Scala:
 
 
 ## «Scala Implicits под капотом».
@@ -31,6 +39,8 @@ Scalan is a framework for creating staged embedded DSLs in Scala. It allows you 
 ## ScalaCheck
 
 ### Петр Громов 
+
+![](imgs/peter.jpeg)
 
 расскажет про то, как он использует ScalaCheck для
 проверки тонких мест в идее, конкретно в подсистеме индексации.
