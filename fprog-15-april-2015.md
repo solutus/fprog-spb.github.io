@@ -6,7 +6,7 @@
 
 ### Александр Подхалюзин
 
-![](imgs/alex.jpeg =250x)
+![](imgs/alex.jpeg){width=200px}
 
 Implicit conversions и implicit parameters очень важная и уникальная
 часть Scala, к тому же крайне мощная. Чтобы использовать всю эту мощь,
@@ -22,7 +22,7 @@ IDEA.
 
 ## Дмитрий Бушев
 
-![](imgs/dmitry-bushev.jpg =250x)
+![](imgs/dmitry-bushev.jpg){width=200px}
 
 Дмитрий раскажет про framework [Scalan](https://github.com/scalan/scalan-ce), разработкой которого он занимаеться.
 
@@ -32,7 +32,7 @@ Scalan is a framework for creating staged embedded DSLs in Scala. It allows you 
 
 ### Петр Громов 
 
-![](imgs/peter.jpeg =250x)
+![](imgs/peter.jpeg){width=200px}
 
 расскажет про то, как он использует ScalaCheck для
 проверки тонких мест в идее, конкретно в подсистеме индексации.
