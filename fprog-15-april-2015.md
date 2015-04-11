@@ -9,6 +9,7 @@
 
 В этот раз встреча будет посвящена языку Scala:
 
+![](imgs/fprogscala.jpg)
 
 ## «Scala Implicits под капотом».
 
