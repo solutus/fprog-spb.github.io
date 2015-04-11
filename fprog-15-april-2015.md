@@ -1,12 +1,20 @@
-# Fprog SPb 15 april 2015
+# Fprog Spb
 
+
+15 апреля 2015 (среда), 19:00 
+
+Встреча инженеров интересующихся функциональным программированием (clojure, erlang, haskell, scala)
+
+Регистрация - https://spb-fp-meetup.timepad.ru/event/195465/ (обязательна)
+
+В этот раз встреча будет посвящена языку Scala:
 
 
 ## «Scala Implicits под капотом».
 
 ### Александр Подхалюзин
 
-![](imgs/alex.jpeg){width=200px}
+![](imgs/alex.jpeg)
 
 Implicit conversions и implicit parameters очень важная и уникальная
 часть Scala, к тому же крайне мощная. Чтобы использовать всю эту мощь,
@@ -22,7 +30,7 @@ IDEA.
 
 ## Дмитрий Бушев
 
-![](imgs/dmitry-bushev.jpg){width=200px}
+![](imgs/dmitry-bushev.jpg)
 
 Дмитрий раскажет про framework [Scalan](https://github.com/scalan/scalan-ce), разработкой которого он занимаеться.
 
@@ -32,7 +40,7 @@ Scalan is a framework for creating staged embedded DSLs in Scala. It allows you 
 
 ### Петр Громов 
 
-![](imgs/peter.jpeg){width=200px}
+![](imgs/peter.jpeg)
 
 расскажет про то, как он использует ScalaCheck для
 проверки тонких мест в идее, конкретно в подсистеме индексации.
