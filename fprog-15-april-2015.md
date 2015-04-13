@@ -19,7 +19,7 @@
 
 Implicit conversions и implicit parameters очень важная и уникальная
 часть Scala, к тому же крайне мощная. Чтобы использовать всю эту мощь,
-нужно разобраться как компилятор ищет их. В данной лекции мы полностью
+нужно разобраться, как компилятор ищет их. В данной лекции мы полностью
 покроем эту тему, а также рассмотрим, как IntelliJ IDEA может помочь с
 Implicits. Также мы освоим довольно хорошо известный Magnet pattern.
 
@@ -33,7 +33,7 @@ IDEA.
 
 ![](imgs/dmitry-bushev.jpg)
 
-Дмитрий раскажет про framework [Scalan](https://github.com/scalan/scalan-ce), разработкой которого он занимаеться.
+Дмитрий раскажет про framework [Scalan](https://github.com/scalan/scalan-ce), разработкой которого он занимается.
 
 Scalan is a framework for creating staged embedded DSLs in Scala. It allows you to write high-level Scala programs and compile them to efficient low-level code (in the language determined by the used backend) and to develop new abstractions which can be used in such programs.
 
